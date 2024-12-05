@@ -1,2 +1,2 @@
 boto3>=1.26
-sagemaker>=2.172
+sagemaker==2.218.0
